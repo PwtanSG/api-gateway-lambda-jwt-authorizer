@@ -1,3 +1,4 @@
+// use nodejs 18x in AWS Lambda
 import jwt from "jsonwebtoken";
 
 export const handler = function (event, context, callback) {
